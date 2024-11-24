@@ -1,0 +1,8 @@
+{
+  "tetra.improvement.tetrasimplyaddon/runicpower.name":"符文槽位",
+  "tetra.improvement.tetrasimplyaddon/netherpower.name":"狱灵槽位",
+  "tetra.improvement.tetrasimplyaddon/runicpower.description":"给予武器一个空符文槽",
+  "tetra.improvement.tetrasimplyaddon/netherpower.description":"给予武器一个空狱灵槽",
+  "tetra/schematic/runicpower.name":"符文赋能",
+  "tetra/schematic/netherpower.name":"狱灵炼铸"
+}

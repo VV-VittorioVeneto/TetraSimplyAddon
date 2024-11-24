@@ -1,0 +1,15 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "com.vv.tetrasimplyaddon.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "refmap": "tetrasimplyaddon.refmap.json",
+    "mixins": [
+      "TSAModularItemMixin"
+    ],
+    "client": [
+    ],
+    "injectors": {
+      "defaultRequire": 1
+    }
+}

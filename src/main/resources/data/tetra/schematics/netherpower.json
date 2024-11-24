@@ -1,0 +1,23 @@
+{
+    "replace": true,
+    "slots": [
+        "sword/blade"
+    ],
+    "materialSlotCount": 1,
+    "materialRevealSlot": 0,
+    "rarity": "temporary",
+    "displayType": "improvement",
+    "outcomes": [
+        {
+            "material": {
+                "items": [
+                    "simplyswords:empowered_remnant"
+                ]
+            },
+            "improvements": {
+                "tetrasimplyaddon/netherpower": 0
+            },
+            "experienceCost": 3
+        }
+    ]
+}

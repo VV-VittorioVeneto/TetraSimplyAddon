@@ -1,0 +1,23 @@
+{
+    "replace": true,
+    "slots": [
+        "sword/blade"
+    ],
+    "materialSlotCount": 1,
+    "materialRevealSlot": 0,
+    "rarity": "temporary",
+    "displayType": "improvement",
+    "outcomes": [
+        {
+            "material": {
+                "items": [
+                    "simplyswords:runic_tablet"
+                ]
+            },
+            "improvements": {
+                "tetrasimplyaddon/runicpower": 0
+            },
+            "experienceCost": 3
+        }
+    ]
+}
